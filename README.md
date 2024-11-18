@@ -4,4 +4,4 @@ User can check Github user activity by entering github username using command-li
 
 Url-
 
-https://roadmap.sh/projects/githubProject
+https://roadmap.sh/projects/github-user-activity
