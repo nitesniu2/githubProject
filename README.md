@@ -4,4 +4,4 @@ User can check Github user activity by entering github username using command-li
 
 Url-
 
-https://roadmap.sh/projects/number-guessing-game
+https://roadmap.sh/projects/githubProject
