@@ -1,2 +1,7 @@
-# githubProject
-Use GitHub API to fetch user activity and display it in the terminal.
+GithubUserActivity
+
+User can check Github user activity by entering github username using command-line.
+
+Url-
+
+https://roadmap.sh/projects/number-guessing-game
